@@ -1,54 +1,48 @@
-Quiet Attic Film Production Management System
-Overview
+# 🎥 Quiet Attic Film Production Management System
 
-The Quiet Attic Film Production Management System is a Windows Form application designed to streamline the management of various aspects of film production for Quiet Attic Film Production Company. This comprehensive system allows users to handle client information, production details, orders, properties, locations, staff, and administrative tasks efficiently.
+![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)
+![.NET](https://img.shields.io/badge/.NET-Framework_4.5%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Features
-Login Credentials:
+**Quiet Attic Film Production Management System** is a powerful Windows Form application designed to streamline various aspects of film production management for **Quiet Attic Film Production Company**. This application ensures efficient handling of clients, productions, orders, properties, locations, staff, and administrative tasks.
 
-Username: Admin
-Password: 1234
-Client Management:
+## ✨ Features
 
-Add, edit, and delete client records.
-View and update client details, including contact information.
-Production Management:
+- **🔐 Login Credentials:**
+  - Username: `Admin`
+  - Password: `1234`
 
-Track and manage details of film productions.
-Assign staff, locations, and properties to productions.
-Order Management:
+- **🧑‍💼 Client Management:**
+  - Add, edit, and delete client records.
+  - View and update client details, including contact information.
 
-Handle client orders seamlessly.
-Track order status and details.
-Property Management:
+- **🎬 Production Management:**
+  - Track and manage details of film productions.
+  - Assign staff, locations, and properties to productions.
 
-Manage properties used in film productions.
-Track availability and details of each property.
-Location Management:
+- **🛒 Order Management:**
+  - Handle client orders seamlessly.
+  - Track order status and details.
 
-Keep a record of filming locations.
-Assign locations to productions.
-Staff Management:
+- **🏠 Property Management:**
+  - Manage properties used in film productions.
+  - Track availability and details of each property.
 
-Manage staff information and roles.
-Assign staff to productions.
-Admin Functions:
+- **📍 Location Management:**
+  - Keep a record of filming locations.
+  - Assign locations to productions.
 
-Perform administrative tasks, including user management.
-Getting Started
-Installation:
-Clone the repository or download the application executable.
-Run the application on a Windows environment.
-Login:
-Use the provided login credentials to access the system.
-Client, Production, Order, Property, Location, and Staff Management:
-Navigate to the respective sections to manage information related to clients, productions, orders, properties, locations, and staff.
-Admin Functions:
-Access the admin section to perform administrative tasks.
-System Requirements
-Windows operating system (Windows 7 and above).
-.NET Framework 4.5 or higher.
-Dependencies
-.NET Framework 4.5 or higher.
-Support
-For any issues or questions, please contact Dhanuja at: dhanujaisuru@gmail.com
+- **👩‍💻 Staff Management:**
+  - Manage staff information and roles.
+  - Assign staff to productions.
+
+- **⚙️ Admin Functions:**
+  - Perform administrative tasks, including user management.
+
+## 🚀 Getting Started
+
+### 📥 Installation:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/quiet-attic-film-management.git
